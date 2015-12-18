@@ -1,6 +1,11 @@
 ## My Bio
 
-- [ ] Frank Fan
-- [ ] Shanghai
-- [ ] Pizza
-- [ ] Basketball
+**Name**: Frank Fan 
+
+**Location**: Shanghai
+
+**Favorite Food**: Pizza 
+
+**Hobby**: Basketball 
+
+**Favorite Color**: Green 
